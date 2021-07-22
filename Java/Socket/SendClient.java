@@ -24,8 +24,8 @@ public class SendClient {
 			System.out.println("서버에 연결되었습니다.");
 
 			// 파일 전송용 클래스
-			String filePath = "C:\\Users\\Inviz\\Desktop\\task\\images\\sender";
-			String fileNm = "Test.dcm"; // 현재 jpg는 안됨. png, dcm, txt 등 됨
+			String filePath = "C:\\Users\\****\\Desktop\\task\\images\\sender";
+			String fileNm = "test01.png"; // 현재 jpg는 안됨. png, dcm, txt 등 됨
 
 //       /*파일 경로에 있는 파일 가져오기*/
 //       File path = new File(filePath);
